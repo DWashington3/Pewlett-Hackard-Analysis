@@ -22,4 +22,5 @@ I was tasked with determining the number of retiring employees at Pewlett Hackar
 
 ## Conclusion
 There are a total of 90,398 [retiring](https://github.com/DWashington3/Pewlett-Hackard-Analysis/blob/14955b83ba8b01e517744f9814197f47e944f12b/Data/retiring_titles.csv) employees. The engineering department will have the greatest change with 43,636 engineers retiring. There are only 1,549 eligible mentorship employees with the current DOB qualification. This will definitely cause friction in the "silver tsunami". To mitigate this i'd suggest increasing the DOB range for the mentorship requirement. By changing the range from January 1, 1965- December 31, 1965 to January 1, 1960- December 31, 1965, 93,756 employees become eligible for the mentorship program. 
+
 <img width="223" alt="mentorship_mod" src="https://user-images.githubusercontent.com/87162266/137835293-eab08efd-25d8-4c58-aba5-87037b063723.png">
